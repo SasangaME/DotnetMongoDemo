@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-11-11T17:10:18.3475982Z"
+    },
+    "mongodb1": {
+      "restored": true,
+      "restoreTime": "2024-11-11T17:10:18.7618378Z"
+    }
+  },
+  "parameters": {}
+}
