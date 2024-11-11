@@ -15,10 +15,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\MongoDemo.Core\MongoDemo.Core.csproj" />
       <ProjectReference Include="..\MongoDemo.Db\MongoDemo.Db.csproj" />
     </ItemGroup>

@@ -9,6 +9,7 @@ public class Pet
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
     public string Id { get; set; } = string.Empty;
+    public string Name { get; set; } = string.Empty;
     public Animal Animal { get; set; }
     public Gender Sex { get; set; }
     public double Age { get; set; }
